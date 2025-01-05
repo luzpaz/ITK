@@ -3,18 +3,18 @@
 #-- EVALUATORS: [Dženan Zukić]
 #--
 #-- ## Compliance level 5 star (AKA ITK main modules, or remote modules that could become core modules)
-#--   - [ ] Widespread community dependance
+#--   - [ ] Widespread community dependence
 #--   - [ ] Above 90% code coverage
 #--   - [X] CI dashboards and testing monitored rigorously
 #--   - [X] Key API features are exposed in wrapping interface
 #--   - [ ] All requirements of Levels 4,3,2,1
 #--
-#-- ## Compliance Level 4 star (Very high-quality code, perhaps small community dependance)
+#-- ## Compliance Level 4 star (Very high-quality code, perhaps small community dependence)
 #--   - [X] Meets all ITK code style standards
 #--   - [X] No external requirements beyond those needed by ITK proper
 #--   - [X] Builds and passes tests on all supported platforms within 1 month of each core tagged release
 #--            - [X] Windows Shared Library Build with Visual Studio
-#--            - [X] Mac with clang compiller
+#--            - [X] Mac with clang compiler
 #--            - [X] Linux with gcc compiler
 #--   - [ ] Active developer community dedicated to maintaining code-base
 #--   - [ ] 75% code coverage demonstrated for testing suite
@@ -27,8 +27,8 @@
 #--   - [X] Some tests exist and pass on at least some platform
 #--   - [X] All requirements of Levels 2,1
 #--
-#-- ## Compliance Level 2 star (Alpha code feature API development or niche community/execution environment dependance )
-#--   - [X] Compiles for at least 1 niche set of execution envirionments, and perhaps others
+#-- ## Compliance Level 2 star (Alpha code feature API development or niche community/execution environment dependence )
+#--   - [X] Compiles for at least 1 niche set of execution environments, and perhaps others
 #--         (may depend on specific external tools like a java environment, or specific external libraries to work )
 #--   - [X] All requirements of Levels 1
 #--
